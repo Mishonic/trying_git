@@ -41,14 +41,14 @@ Markdown — это легковесный язык разметки для фо
 ---
 ## Персонажи
 
-| Character        | Actor               | First Appearance | Image |
+| Character         | Actor               | First Appearance | Image |
 |------------------|---------------------|------------------|-------|
-| Max Mayfield     | Sadie Sink          | Season 2         | <img src="https://occ-0-1232-3608.1.nflxso.net/art/ac583ef0b7ceecce9154dc2f93a6c5fe8db9d0b6.jpg" width="15" height="15" alt="Sadie Sink as Max Mayfield" /> |
-| Eleven (El)      | Millie Bobby Brown  | Season 1         | <img src="https://occ-0-1232-3608.1.nflxso.net/art/6d8bedb9337c7b5ca17d087932b813c1e617755e.jpg" width="15" height="15" alt="Millie Bobby Brown as Eleven" /> |
-| Mike Wheeler     | Finn Wolfhard       | Season 1         | <img src="https://occ-0-1232-3608.1.nflxso.net/art/0af65f22d3c94201b2f86cad0a0fa7bbfdb72860.jpg" width="15" height="15" alt="Finn Wolfhard as Mike Wheeler" /> |
-| Dustin Henderson | Gaten Matarazzo     | Season 1         | <img src="https://occ-0-1232-3608.1.nflxso.net/art/bd32df48b5c91b627f4a258492276a6e43bb79cc.jpg" width="15" height="15" alt="Gaten Matarazzo as Dustin Henderson" /> |
-| Lucas Sinclair   | Caleb McLaughlin    | Season 1         | <img src="https://occ-0-1232-3608.1.nflxso.net/art/4fd802b560e2038b5df5f59fcafe20480a84a9fa.jpg" width="15" height="15" alt="Caleb McLaughlin as Lucas Sinclair" /> |
-| Will Byers       | Noah Schnapp        | Season 1         | <img src="https://occ-0-1232-3608.1.nflxso.net/art/26e02445d31fcbc75bf8eab99adc06eb40c0b07a.jpg" width="15" height="15" alt="Noah Schnapp as Will Byers" /> |
+| Max Mayfield     | Sadie Sink          | Season 2         | <img width="150" height="150" alt="Sadie Sink" src="https://github.com/user-attachments/assets/81804717-8b23-46f6-ad46-d7e1c678ee16" />|
+| Eleven (El)      | Millie Bobby Brown  | Season 1         | <img width="150" height="150" alt="Millie Bobby Brown" src="https://github.com/user-attachments/assets/3ab23892-1a5c-4be4-94b2-8a9f300ccd83" />|
+| Mike Wheeler     | Finn Wolfhard       | Season 1         | <img width="150" height="150" alt="Finn Wolfhard" src="https://github.com/user-attachments/assets/fcd55b90-fe0f-4323-a07f-3fbfbe345530" />|
+| Dustin Henderson | Gaten Matarazzo     | Season 1         | <img width="150" height="150" alt="Gaten Matarazzo" src="https://github.com/user-attachments/assets/d7d6c314-3a81-4064-9b7d-05e93f012f84" />|
+| Lucas Sinclair   | Caleb McLaughlin    | Season 1         | <img width="150" height="150" alt="Caleb McLaughlin" src="https://github.com/user-attachments/assets/949ce6ef-b9c5-4aef-a3e5-55a8d2d6c92c" />|
+| Will Byers       | Noah Schnapp        | Season 1         | <img width="150" height="150" alt="Noah Schnapp" src="https://github.com/user-attachments/assets/34538114-6916-4532-82e9-5722d3299a6b" />|
 
 ---
 
